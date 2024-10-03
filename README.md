@@ -1,4 +1,4 @@
-<img src="banner.png" alt="banner">
+<img src="fenity-banner.png" alt="banner">
 
 <h1 align="center">Hey there! I'm Efe Can Kara (but you can call me FENITY)</h1>
 <h3 align="center">Data Scientist | Linux Geek | IoT Tinkerer</h3>
